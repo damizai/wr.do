@@ -29,8 +29,8 @@ export default async function RootLayout({ children }: RootLayoutProps) {
         <head>
           <script
             defer
-            src="https://umami.oiov.dev/script.js"
-            data-website-id="56549e9d-61df-470d-a1b1-cbf12cfafe9d"
+            src="https://um.biuxin.com/script.js"
+            data-website-id="a4901e47-c48f-4233-8361-defa5945697b"
           ></script>
         </head>
         <body
